@@ -1,5 +1,5 @@
 # About
-This is HTTP service on FastAPI that allows you to upload csv files to ORM SQLite database and work with it.
+This is HTTP service on FastAPI that allows you to upload CSV files to ORM SQLite database and work with it.
 # Start
 Create a virtual environment:
 ```bash
